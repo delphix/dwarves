@@ -1,0 +1,6 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: dwarves
+Source: https://github.com/acmel/dwarves
+
+Files: *
+License: GPLv2
